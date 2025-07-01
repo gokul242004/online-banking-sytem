@@ -51,7 +51,7 @@ CREATE DATABASE banking_system;
 ```java
 private static final String DB_URL = "jdbc:mysql://localhost:3306/banking_system";
 private static final String DB_USERNAME = "root";
-private static final String DB_PASSWORD = "mullapudi123";
+private static final String DB_PASSWORD = "****************";
 ```
 
 Change them if your MySQL uses a different username or password.
